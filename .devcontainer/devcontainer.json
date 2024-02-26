@@ -1,0 +1,9 @@
+{
+    "name": "Python Project",
+    "image": "python:3.11",
+    "extensions": [ 
+        "ms-python.python", 
+        "github.copilot", 
+        "github.copilot-chat" 
+    ]
+}
