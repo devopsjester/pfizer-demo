@@ -1,4 +1,4 @@
-# Python Application
+# Personalized Hello World Application
 
 This is a Python-based application designed to interact with users, collect their names, and greet them. The application is built with simplicity and user interaction in mind, serving as a demonstration of basic Python capabilities.
 
